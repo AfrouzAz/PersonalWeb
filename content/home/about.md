@@ -2,41 +2,39 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 5
 
 # List your academic interests.
 [interests]
-interests = [
-"Microeconometrics",
-"Finance",
-"Machine Learning"
-]
+  interests = [
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
+  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-course = "PhD in Economics (Expected)"
-institution = "Temple University"
-year = 2019
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
 
 [[education.courses]]
-course = "MS in Finance"
-institution = "Shenzhen University"
-year = 2013
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
 
 [[education.courses]]
-course = "BS in Medical Tests"
-institution = "Southern Medical University"
-year = 2009
-
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
+ 
 +++
 
 # Biography
 
-I am a PhD Candidate in Economics at Temple University. My research interests include Microeconometrics, Finance and Machine Learning.
+Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-
-
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

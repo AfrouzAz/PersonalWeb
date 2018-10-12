@@ -7,53 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Decomposing Differences in Portfolio Returns Between North America and Europe</title>
-      <link>/publication/jmp/</link>
-      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/jmp/</guid>
+      <guid>/publication/person-re-identification/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
-      <title>Distributional Effects of a Continuous Treatment with an Application on Intergenerational Mobility</title>
-      <link>/publication/iim/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Mobile visual clothing search</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
       
-      <guid>/publication/iim/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>Local Intergenerational Elasticities</title>
-      <link>/publication/lige/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/lige/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Distribution Regression</title>
-      <link>/publication/bdr/</link>
-      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/bdr/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>Semiparametric Estimation of Oaxaca-Blinder Decompositions with Continuous Groups</title>
-      <link>/publication/seobd/</link>
-      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/seobd/</guid>
+      <guid>/publication/clothing-search/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
